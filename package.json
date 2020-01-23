@@ -1,0 +1,16 @@
+{
+  "name": "buy-and-sell",
+  "version": "1.0.0",
+  "description": "Buy, Sell",
+  "main": "./src/service/service.ts",
+  "scripts": {
+    "test": "npm run eslint",
+    "eslint": "eslint --ext .ts src/"
+  },
+  "author": "Artem Beresnev",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "6.8.0",
+    "eslint-config-htmlacademy": "0.5.2"
+  }
+}
